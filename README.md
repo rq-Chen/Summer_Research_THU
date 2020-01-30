@@ -1,1 +1,1 @@
-This folder contains the codes I wrote during research. Feel free to browse them, but please do not download or copy the codes before we publish our result. Thank you for your cooperation.
+This folder contains the codes I wrote during research.
