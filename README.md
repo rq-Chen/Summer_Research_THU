@@ -1,1 +1,1 @@
-This folder contains the codes I wrote during research.
+This folder contains the codes I wrote during my summer research.
